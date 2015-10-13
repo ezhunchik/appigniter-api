@@ -10,13 +10,4 @@ You will need your APPIGNITER Publisher API Key for every request. To get your P
 Refer to the https://github.com/appigniter/appigniter-api/wiki of this repository for the properties needed for update and create.
 
 
-
-## Native Ad API
-Make ad requests and return custom creative types for any application.
-
-## Reporting API
-Track impressions, clicks, and conversions across criteria.
-Coming Soon
-
-
 Copyright © APPIGNITER, LLC.
